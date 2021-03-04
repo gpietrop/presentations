@@ -1,6 +1,9 @@
-### PRESENTATION REPOSITORY
+## PRESENTATION REPOSITORY
 Repository containing the presentation made
 ---- 
-\begin{\itemize}
+
+List of all the presentation present in this repository:
+
+$\begin{\itemize}
 \item j
-\end{\itemize}
+\end{\itemize} $

@@ -12,3 +12,6 @@ List of all the presentation of this repository:
 
 3) __Improving Geometric Semantic Genetic Programming with Gradient Descent__  \
   21/04/2022, evostar 2022, _Madrid_
+  
+4) __GANs for integration of deterministic model and observations in marine ecosystem__ \
+  01/09/2022, EPIA 2022, _Lisbon_

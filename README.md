@@ -15,3 +15,6 @@ List of all the presentation of this repository:
   
 4) __GANs for integration of deterministic model and observations in marine ecosystem__ \
   01/09/2022, EPIA 2022, _Lisbon_
+  
+5) __P Systems inference via Grammatical Evolution__ \
+  08/09/2022, CMC 2022, _Trieste_
